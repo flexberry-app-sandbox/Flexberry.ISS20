@@ -1,0 +1,50 @@
+﻿{
+  "applicationCaption": "I s s20",
+  "applicationTitle": "I s s20",
+  "items": [
+    {
+      "link": null,
+      "menuName": "i-s-s20",
+      "caption": "ISS20",
+      "title": "ISS20",
+      "children": [
+        {
+          "link": "i-i-s-i-s-s20-форма-l",
+          "menuName": null,
+          "caption": "Форма",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s20-вид-поддержки-l",
+          "menuName": null,
+          "caption": "Вид поддержки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s20-форма-l",
+          "menuName": null,
+          "caption": "ФормаL",
+          "title": "Форма",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s20-вид-поддержки-l",
+          "menuName": null,
+          "caption": "ВидПоддержкиL",
+          "title": "Вид поддержки",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s20-условие-l",
+          "menuName": null,
+          "caption": "УсловиеL",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

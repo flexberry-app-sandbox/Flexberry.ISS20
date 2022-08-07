@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Форма",
+      "projection": "ФормаL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Вид поддержки",
+  "name": "IISISS20ВидПоддержкиE",
+  "className": "ВидПоддержкиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-s-s20-вид-поддержки",
+      "modelProjection": "ВидПоддержкиE"
+    }
+  ]
+}
